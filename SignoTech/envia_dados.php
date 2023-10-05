@@ -43,7 +43,7 @@ if($_POST['continuar'] == 'Continuar'){
         $insertProd = mysqli_query($con, $queryProd);
         
         if($insertUser && $insertProd){
-            $_SESSION['email'] = $email;
+            $email = $_SESSION['email'];
             $arquivo = "
             <style type='text/css'>
             body {
