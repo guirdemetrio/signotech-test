@@ -1,0 +1,122 @@
+h4{
+	color: #3c3939;
+	font-size: 16px;
+} 
+h1{
+	color:red;
+  font-size: 12px;
+ }
+ h2{
+  color: #3c3939;
+  font-size: 30px;
+ }
+ h3{
+  color: #3c3939;
+  font-size: 25px;
+ }
+.principal{
+    position:relative;
+    left:37%;
+    top:29%;
+    width:450px;
+    height:270px;
+   
+}
+
+#concluido{
+  position:relative;
+  left: 500px;
+  top: 200px;
+  width:450px;
+  height:200px;
+  border: 2px solid #3c3939;
+  padding: 10px;
+
+}
+
+body{
+	background-color: #EEEEEE;
+  color: #3c3939;
+  font-size: 16px;
+}
+
+.formulario label
+{
+  position:absolute;
+  left:-80px;
+  margin-right:25px;
+  padding-left: 10px;
+ 
+  
+
+}
+
+#revista{
+  position:absolute;
+  left:-126px;
+  margin-right:25px;
+  padding-left: 10px;
+ 
+}
+#quantidade{
+    position:absolute;
+    left:-98px;
+    margin-right:25px;
+    padding-left: 10px;
+   
+  }
+
+  #atracao{
+    position:absolute;
+    left:-146px;
+    margin-right:25px;
+    padding-left: 10px;
+  }  
+  textarea{
+    resize: none;
+    height: 80px;
+    width: 250px;
+  }
+  .header{
+    
+	  background-color: #000000;
+	  height: 80px;
+    
+  }
+.header img{
+  max-height: 80px;
+}
+.nav{
+  color:#EEEEEE;
+	background-color: #000000;
+	height: 20px;
+	text-decoration: none;
+}
+
+#dados{
+  position: relative;
+  border: 2px solid #3c3939;
+  top: 100px;
+  right: 400px;
+  height: 500px;
+  width: 550px;
+  max-height: 1000px;
+}
+a {
+	color: #fffdfd;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+#altera_dados{
+  position:relative;
+  left: 500px;
+  top: 200px;
+  width:450px;
+  height:400px;
+ 
+  padding: 10px;
+
+}
